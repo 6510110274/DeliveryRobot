@@ -1,4 +1,5 @@
-Team Develop 
-Silmee Panan
-Papanya Siriwattanaworakul
-Phuritthaya Khundeang
+
+# Team Develop
+- Silmee Panan
+- Papanya Siriwattanaworakul
+- Phuritthaya Khundeang
